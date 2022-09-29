@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/boyadisorn1/my-resume.github.io/static/css/main.3adbe30e.css",
-    "main.js": "/boyadisorn1/my-resume.github.io/static/js/main.27a03bce.js",
-    "static/js/787.7c4fc8d6.chunk.js": "/boyadisorn1/my-resume.github.io/static/js/787.7c4fc8d6.chunk.js",
-    "index.html": "/boyadisorn1/my-resume.github.io/index.html",
-    "main.3adbe30e.css.map": "/boyadisorn1/my-resume.github.io/static/css/main.3adbe30e.css.map",
-    "main.27a03bce.js.map": "/boyadisorn1/my-resume.github.io/static/js/main.27a03bce.js.map",
-    "787.7c4fc8d6.chunk.js.map": "/boyadisorn1/my-resume.github.io/static/js/787.7c4fc8d6.chunk.js.map"
+    "main.css": "/my-resume/static/css/main.3adbe30e.css",
+    "main.js": "/my-resume/static/js/main.50bc64f4.js",
+    "static/js/787.7c4fc8d6.chunk.js": "/my-resume/static/js/787.7c4fc8d6.chunk.js",
+    "index.html": "/my-resume/index.html",
+    "main.3adbe30e.css.map": "/my-resume/static/css/main.3adbe30e.css.map",
+    "main.50bc64f4.js.map": "/my-resume/static/js/main.50bc64f4.js.map",
+    "787.7c4fc8d6.chunk.js.map": "/my-resume/static/js/787.7c4fc8d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3adbe30e.css",
-    "static/js/main.27a03bce.js"
+    "static/js/main.50bc64f4.js"
   ]
 }
